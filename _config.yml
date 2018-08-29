@@ -3,4 +3,4 @@ title: Sigon
 description: my description
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: time-machine
+theme: jekyll-theme-time-machine
