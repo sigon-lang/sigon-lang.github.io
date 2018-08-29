@@ -1,1 +1,5 @@
+name: Sigon Language
+title: Sigon
+description: A description here
+permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-architect
