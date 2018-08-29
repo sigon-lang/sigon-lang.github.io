@@ -1,4 +1,6 @@
-name: Gustavo Kundlatsch
+name: Sigon Language
+title: Sigon
+description: my description
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: time-machine
