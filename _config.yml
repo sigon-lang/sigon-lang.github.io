@@ -1,5 +1,3 @@
-name: Sigon Language
-title: Sigon
-description: A description here
+name: Gustavo Kundlatsch
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-architect
