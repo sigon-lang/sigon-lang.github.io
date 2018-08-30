@@ -1,6 +1,6 @@
 name: Sigon Language
 title: Sigon
-description: my description
+description: An angent description language for multi-context systems
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-architect
