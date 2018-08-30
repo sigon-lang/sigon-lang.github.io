@@ -6,6 +6,12 @@
 #main-logo {
 	width: 50%;
 	height: 50%;
+	transition: 1s;
+}
+
+#main:hover{
+	widith: 70%;
+	height: 70%;
 }
 
 .title {
