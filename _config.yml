@@ -1,6 +1,6 @@
 name: Sigon Language
 title: Sigon
-description: Decribing agents as multi-context systems
+description: Operationalizing agents as multi-context systems
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-architect
